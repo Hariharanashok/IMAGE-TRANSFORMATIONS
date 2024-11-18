@@ -27,9 +27,10 @@ Shear the image in both the rows and columns.
 ## Step5:
 
 Find the reflection of the image.
-
+```
 Developed By: Hariharan A
 Register Number: 212222100012
+```
 ## Program:
 ```python
 i)Image Translation
