@@ -28,10 +28,10 @@ Shear the image in both the rows and columns.
 
 Find the reflection of the image.
 
+Developed By: Hariharan A
+Register Number: 212222100012
 ## Program:
 ```python
-Developed By: Kothai K
-Register Number: 212222240051
 i)Image Translation
 ```python
 import numpy as np
